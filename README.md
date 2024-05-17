@@ -13,5 +13,7 @@ The trained data is Braille blocks from ai-hub(aihub.or.kr)
 
 ## Result video
 
-https://github.com/caden1464/Braille-Blocks-Detection-for-the-Blind/assets/67831416/9b8c5c6a-1fb4-4ce6-8b59-f179c5cc5cf6
+https://github.com/caden1464/Braille-Blocks-Detection-for-the-Blind/assets/67831416/9df6f81a-9b87-49a6-a68b-8a0414c3cdb9
 
+
+![Matlab_project](https://github.com/caden1464/Braille-Blocks-Detection-for-the-Blind/assets/67831416/6cfb2e75-3fd5-4800-a1ce-3e3b5978d99f)
